@@ -1,2 +1,2 @@
 --- Butter---
-https://evabhub.github.io/Butter/Butter.html
+https://evabhub.github.io/Butter.github.io/Butter.html
